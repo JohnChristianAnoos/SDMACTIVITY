@@ -1,0 +1,14 @@
+C:\Users\yolytian\source\repos\SDM\SDM\bin\Release\SDM.exe.config
+C:\Users\yolytian\source\repos\SDM\SDM\bin\Release\SDM.exe
+C:\Users\yolytian\source\repos\SDM\SDM\bin\Release\SDM.pdb
+C:\Users\yolytian\source\repos\SDM\SDM\bin\Release\SDM.xml
+C:\Users\yolytian\source\repos\SDM\SDM\obj\Release\SDM.vbproj.AssemblyReference.cache
+C:\Users\yolytian\source\repos\SDM\SDM\obj\Release\SDM.Form1.resources
+C:\Users\yolytian\source\repos\SDM\SDM\obj\Release\SDM.Resources.resources
+C:\Users\yolytian\source\repos\SDM\SDM\obj\Release\SDM.Serialform.resources
+C:\Users\yolytian\source\repos\SDM\SDM\obj\Release\SDM.Serial.resources
+C:\Users\yolytian\source\repos\SDM\SDM\obj\Release\SDM.vbproj.GenerateResource.cache
+C:\Users\yolytian\source\repos\SDM\SDM\obj\Release\SDM.vbproj.CoreCompileInputs.cache
+C:\Users\yolytian\source\repos\SDM\SDM\obj\Release\SDM.exe
+C:\Users\yolytian\source\repos\SDM\SDM\obj\Release\SDM.xml
+C:\Users\yolytian\source\repos\SDM\SDM\obj\Release\SDM.pdb

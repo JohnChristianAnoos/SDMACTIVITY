@@ -1,0 +1,14 @@
+C:\Users\yolytian\source\repos\SDM\SDM\bin\Debug\SDM.exe.config
+C:\Users\yolytian\source\repos\SDM\SDM\bin\Debug\SDM.exe
+C:\Users\yolytian\source\repos\SDM\SDM\bin\Debug\SDM.pdb
+C:\Users\yolytian\source\repos\SDM\SDM\bin\Debug\SDM.xml
+C:\Users\yolytian\source\repos\SDM\SDM\obj\Debug\SDM.vbproj.AssemblyReference.cache
+C:\Users\yolytian\source\repos\SDM\SDM\obj\Debug\SDM.Form1.resources
+C:\Users\yolytian\source\repos\SDM\SDM\obj\Debug\SDM.Resources.resources
+C:\Users\yolytian\source\repos\SDM\SDM\obj\Debug\SDM.vbproj.GenerateResource.cache
+C:\Users\yolytian\source\repos\SDM\SDM\obj\Debug\SDM.vbproj.CoreCompileInputs.cache
+C:\Users\yolytian\source\repos\SDM\SDM\obj\Debug\SDM.exe
+C:\Users\yolytian\source\repos\SDM\SDM\obj\Debug\SDM.xml
+C:\Users\yolytian\source\repos\SDM\SDM\obj\Debug\SDM.pdb
+C:\Users\yolytian\source\repos\SDM\SDM\obj\Debug\SDM.Serial.resources
+C:\Users\yolytian\source\repos\SDM\SDM\obj\Debug\SDM.Serialform.resources
